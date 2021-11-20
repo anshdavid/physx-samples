@@ -1,0 +1,1 @@
+cd PhysX/physx/bin/linux.clang/release/
